@@ -1,1 +1,25 @@
-/* ...crickets... */
+.title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin: 2px;
+}
+
+.subtitle {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.content {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.emph {
+    font-style: italic;
+}
