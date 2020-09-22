@@ -6,10 +6,21 @@ img {
 }
 
 .img2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
 }
 
 .img3 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .img4 {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
