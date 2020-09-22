@@ -4,4 +4,23 @@ body {
 
 button {
   /* Solve me */
+  background: blue;
+  color: white;
+  font-weight: bold;
+  border-radius: 14px;
+  padding: 20px 24px 20px 24px;
 }
+
+button:hover {
+  background: darkblue;
+}
+
+button:active {
+  transform: scale(0.8, 0.8);
+  transition-duration: 1s;
+}
+
+button:focus {
+  outline: none;
+  background: darkblue;
+} 
